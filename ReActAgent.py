@@ -14,5 +14,4 @@ load_dotenv()
 class AgentState(TypedDict):
     messages:Annotated[Sequence[BaseMessage],add_messages] # this is saying preserve the state by overriding it
 
-@tool
-def add
+
