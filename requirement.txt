@@ -1,0 +1,6 @@
+langchain
+langgraph
+dotenv 
+langchain-openai
+black
+tiktoken
